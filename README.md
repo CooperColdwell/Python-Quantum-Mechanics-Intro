@@ -42,4 +42,4 @@ To launch a JupyterLab session, type
 ```
 jupyter lab
 ```
-into the terminal.
+into the terminal and click one of the links it spits out.
