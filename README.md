@@ -37,3 +37,9 @@ and type 'y' when prompted by the terminal. To enable extension support (not nec
 pip install npm
 ```
 ----
+### Starting JupyterLab
+To launch a JupyterLab session, type 
+```
+jupyter lab
+```
+into the terminal.
